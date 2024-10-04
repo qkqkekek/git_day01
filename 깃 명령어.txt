@@ -1,0 +1,19 @@
+git init                                                      
+
+git status
+
+git add .  
+   
+ git commit -m "v2"
+
+git log --oneline
+
+git branch dell
+
+git checkout master
+
+git remote add origin "https://github.com/qkqkekek/front_html.git"
+
+git push origin master
+
+git clone "https://github.com/qkqkekek/front_html.git" .
